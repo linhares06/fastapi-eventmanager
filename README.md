@@ -1,4 +1,4 @@
-# Recipe Sharing App API Project
+# Event Manager App API Project
 This is a Python-based RESTful API with FastAPI that provides information for a Event Manager App.
 It uses FastAPI, pydantic and sqlalchemy for integration with a relational database(sqlite).
 
